@@ -33,6 +33,6 @@ Technical requirements for the core application are unchanged from the prior pha
   - Provide “next” and “previous” links to let the users navigate a long list of items.
 - Hide or show completed items in the list.
 
-[PR]()
+[PR](https://github.com/SarahTek/ToDo-App/pull/6)
 
 [UML]()
